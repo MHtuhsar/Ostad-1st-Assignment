@@ -85,7 +85,7 @@ void main(){
   s.displayRole();
   s.calculateAverageScores();
 
-  Teacher t = Teacher ("Mrs. Smith",35,"456 Oak St","",["-Math","-English","Bangla"]);
+  Teacher t = Teacher ("Mrs. Smith",35,"456 Oak St","",["-Math","-English","-Bangla"]);
   t.displayRole();
   t.displayCoursesTaught();
 }
